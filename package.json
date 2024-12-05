@@ -1,0 +1,13 @@
+{
+  "name": "chakraui-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/react": "^3.2.3",
+    "@emotion/react": "^11.13.5",
+    "next-themes": "^0.4.3",
+    "react": "^18.3.1",
+    "react-icons": "^5.4.0"
+  }
+}
